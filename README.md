@@ -45,7 +45,6 @@ The redesign includes:
 - **Edit User mode** (manager-only)
 - **Mobile layouts**
 
-## My Role
 
 ## Goals
 
@@ -58,11 +57,6 @@ The redesign includes:
 ## Tools
 
 - Figma
-
-
-## Preview
-
-
 
 ## Notes
 
