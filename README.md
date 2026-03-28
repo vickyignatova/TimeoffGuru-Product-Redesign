@@ -60,4 +60,4 @@ The redesign includes:
 
 ## Notes
 
-This is a conceptual redesign created for portfolio purposes.
+This is a conceptual redesign created for portfolio purposes during my intership at Stamsoft.
